@@ -16,6 +16,5 @@ end
 
 
 def go 
-  puts "
-     "
+  puts "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
 end 
