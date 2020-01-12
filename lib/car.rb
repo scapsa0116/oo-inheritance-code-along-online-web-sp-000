@@ -13,4 +13,8 @@ end
 def wheel_number 
   @wheel_number
 end 
+
+
+def go 
+  puts ""
 end 
