@@ -18,12 +18,12 @@ end
 
 
 def go 
-  puts "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
+  p "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   
 end 
 
 
 def fill_up_tank
-  puts "filling up!"
+  p "filling up!"
 end 
 end 
