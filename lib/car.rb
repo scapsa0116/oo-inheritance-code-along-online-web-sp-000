@@ -7,15 +7,6 @@ class Car
     @wheel_number = wheel_number
   end
   
-  
-# def wheel_size
-#   @wheel_size
-# end 
-
-# def wheel_number 
-#   @wheel_number
-# end 
-
 
 def go 
   p "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
