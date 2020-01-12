@@ -16,5 +16,6 @@ end
 
 
 def go 
-  puts ""
+  puts "
+     "
 end 
